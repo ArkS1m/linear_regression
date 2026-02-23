@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "linear-regression"
+version = "0.1.0"
+description = "A linear regression project."
+authors = ["Vladislav Urdaev <vurdaev@mail.ru>"]
+
+[tool.poetry.dependencies]
+python = "^3.14.0"
+scikit-learn = "^1.8.0"
+matplotlib = "^3.10.8"
+pandas = "^3.0.1"
+plotly = "^6.5.2"
+openpyxl = "^3.1.5"
